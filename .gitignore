@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+**/.env
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Experiment tracking
+mlflow.db
+!09_getaround/notebooks/mlflow.db
+mlruns/
+
+# Heavy data
+*.zip
+06_uber/data/uber-trip-data/

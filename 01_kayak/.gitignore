@@ -1,0 +1,9 @@
+data/*
+!data/SOURCE.md
+__pycache__/
+.ipynb_checkpoints/
+mlflow.db
+mlruns/
+.env
+*.zip
+**/.env

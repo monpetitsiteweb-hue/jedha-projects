@@ -1,0 +1,557 @@
+2026-10-31 12:07:05 | START 01_geocode_weather
+2026-10-31 12:08:00 | DONE 01_geocode_weather
+2026-10-31 12:08:00 | START 02_booking_scraping
+2026-10-31 12:08:11 | search | Bormes les Mimosas | 15 hotels listed
+2026-10-31 12:08:22 | search | Bayonne | 15 hotels listed
+2026-10-31 12:08:36 | search | Biarritz | 15 hotels listed
+2026-10-31 12:08:49 | search | Cassis | 15 hotels listed
+2026-10-31 12:09:04 | search | Collioure | 15 hotels listed
+2026-10-31 12:09:18 | search | Marseille | 15 hotels listed
+2026-10-31 12:09:32 | search | Aix en Provence | 15 hotels listed
+2026-10-31 12:09:44 | search | Toulouse | 15 hotels listed
+2026-10-31 12:09:56 | search | Montauban | 15 hotels listed
+2026-10-31 12:10:10 | search | Mont Saint Michel | 15 hotels listed
+2026-10-31 12:10:24 | search | Paris | 15 hotels listed
+2026-10-31 12:10:37 | search | Rouen | 15 hotels listed
+2026-10-31 12:10:51 | search | Grenoble | 15 hotels listed
+2026-10-31 12:11:04 | search | St Malo | 16 hotels listed
+2026-10-31 12:11:18 | search | Le Havre | 15 hotels listed
+2026-10-31 12:11:32 | search | La Rochelle | 15 hotels listed
+2026-10-31 12:11:45 | search | Ariege | 15 hotels listed
+2026-10-31 12:12:00 | search | Lille | 15 hotels listed
+2026-10-31 12:12:15 | search | Amiens | 15 hotels listed
+2026-10-31 12:12:27 | search | Aigues Mortes | 15 hotels listed
+2026-10-31 12:12:43 | search | Nimes | 15 hotels listed
+2026-10-31 12:12:58 | search | Carcassonne | 15 hotels listed
+2026-10-31 12:13:11 | search | Saintes Maries de la mer | 15 hotels listed
+2026-10-31 12:13:24 | search | Uzes | 15 hotels listed
+2026-10-31 12:13:37 | search | Lyon | 15 hotels listed
+2026-10-31 12:13:52 | search | Bayeux | 15 hotels listed
+2026-10-31 12:14:04 | search | Strasbourg | 15 hotels listed
+2026-10-31 12:14:19 | search | Annecy | 15 hotels listed
+2026-10-31 12:14:34 | search | Avignon | 15 hotels listed
+2026-10-31 12:14:45 | search | Besancon | 15 hotels listed
+2026-10-31 12:15:01 | search | Dijon | 15 hotels listed
+2026-10-31 12:15:14 | search | Colmar | 15 hotels listed
+2026-10-31 12:15:27 | search | Eguisheim | 15 hotels listed
+2026-10-31 12:15:42 | search | Chateau du Haut Koenigsbourg | 15 hotels listed
+2026-10-31 12:15:56 | hotel page | Bormes les Mimosas | 1/511 hotels collected
+2026-10-31 12:16:10 | hotel page | Bormes les Mimosas | 2/511 hotels collected
+2026-10-31 12:16:22 | hotel page | Bormes les Mimosas | 3/511 hotels collected
+2026-10-31 12:16:35 | hotel page | Bormes les Mimosas | 4/511 hotels collected
+2026-10-31 12:16:46 | hotel page | Bormes les Mimosas | 5/511 hotels collected
+2026-10-31 12:16:58 | hotel page | Bormes les Mimosas | 6/511 hotels collected
+2026-10-31 12:17:09 | hotel page | Bormes les Mimosas | 7/511 hotels collected
+2026-10-31 12:17:19 | hotel page | Bormes les Mimosas | 8/511 hotels collected
+2026-10-31 12:17:30 | hotel page | Bormes les Mimosas | 9/511 hotels collected
+2026-10-31 12:17:46 | hotel page | Bormes les Mimosas | 10/511 hotels collected
+2026-10-31 12:18:01 | hotel page | Bormes les Mimosas | 11/511 hotels collected
+2026-10-31 12:18:13 | hotel page | Bormes les Mimosas | 12/511 hotels collected
+2026-10-31 12:18:28 | hotel page | Bormes les Mimosas | 13/511 hotels collected
+2026-10-31 12:18:40 | hotel page | Bormes les Mimosas | 14/511 hotels collected
+2026-10-31 12:18:54 | hotel page | Bormes les Mimosas | 15/511 hotels collected
+2026-10-31 12:19:08 | hotel page | Bayonne | 16/511 hotels collected
+2026-10-31 12:19:19 | hotel page | Bayonne | 17/511 hotels collected
+2026-10-31 12:19:30 | hotel page | Bayonne | 18/511 hotels collected
+2026-10-31 12:19:43 | hotel page | Bayonne | 19/511 hotels collected
+2026-10-31 12:19:56 | hotel page | Bayonne | 20/511 hotels collected
+2026-10-31 12:20:09 | hotel page | Bayonne | 21/511 hotels collected
+2026-10-31 12:20:22 | hotel page | Bayonne | 22/511 hotels collected
+2026-10-31 12:20:34 | hotel page | Bayonne | 23/511 hotels collected
+2026-10-31 12:20:46 | hotel page | Bayonne | 24/511 hotels collected
+2026-10-31 12:20:58 | hotel page | Bayonne | 25/511 hotels collected
+2026-10-31 12:21:10 | hotel page | Bayonne | 26/511 hotels collected
+2026-10-31 12:21:21 | hotel page | Bayonne | 27/511 hotels collected
+2026-10-31 12:21:34 | hotel page | Bayonne | 28/511 hotels collected
+2026-10-31 12:21:46 | hotel page | Bayonne | 29/511 hotels collected
+2026-10-31 12:22:00 | hotel page | Bayonne | 30/511 hotels collected
+2026-10-31 12:22:12 | hotel page | Biarritz | 31/511 hotels collected
+2026-10-31 12:22:27 | hotel page | Biarritz | 32/511 hotels collected
+2026-10-31 12:22:39 | hotel page | Biarritz | 33/511 hotels collected
+2026-10-31 12:22:50 | hotel page | Biarritz | 34/511 hotels collected
+2026-10-31 12:23:02 | hotel page | Biarritz | 35/511 hotels collected
+2026-10-31 12:23:14 | hotel page | Biarritz | 36/511 hotels collected
+2026-10-31 12:23:26 | hotel page | Biarritz | 37/511 hotels collected
+2026-10-31 12:23:39 | hotel page | Biarritz | 38/511 hotels collected
+2026-10-31 12:23:51 | hotel page | Biarritz | 39/511 hotels collected
+2026-10-31 12:24:03 | hotel page | Biarritz | 40/511 hotels collected
+2026-10-31 12:24:16 | hotel page | Biarritz | 41/511 hotels collected
+2026-10-31 12:24:28 | hotel page | Biarritz | 42/511 hotels collected
+2026-10-31 12:24:39 | hotel page | Biarritz | 43/511 hotels collected
+2026-10-31 12:24:53 | hotel page | Biarritz | 44/511 hotels collected
+2026-10-31 12:25:05 | hotel page | Biarritz | 45/511 hotels collected
+2026-10-31 12:25:18 | hotel page | Cassis | 46/511 hotels collected
+2026-10-31 12:25:30 | hotel page | Cassis | 47/511 hotels collected
+2026-10-31 12:25:44 | hotel page | Cassis | 48/511 hotels collected
+2026-10-31 12:25:55 | hotel page | Cassis | 49/511 hotels collected
+2026-10-31 12:26:07 | hotel page | Cassis | 50/511 hotels collected
+2026-10-31 12:26:21 | hotel page | Cassis | 51/511 hotels collected
+2026-10-31 12:26:32 | hotel page | Cassis | 52/511 hotels collected
+2026-10-31 12:26:46 | hotel page | Cassis | 53/511 hotels collected
+2026-10-31 12:26:58 | hotel page | Cassis | 54/511 hotels collected
+2026-10-31 12:27:11 | hotel page | Cassis | 55/511 hotels collected
+2026-10-31 12:27:22 | hotel page | Cassis | 56/511 hotels collected
+2026-10-31 12:27:35 | hotel page | Cassis | 57/511 hotels collected
+2026-10-31 12:27:46 | hotel page | Cassis | 58/511 hotels collected
+2026-10-31 12:27:57 | hotel page | Cassis | 59/511 hotels collected
+2026-10-31 12:28:10 | hotel page | Cassis | 60/511 hotels collected
+2026-10-31 12:28:21 | hotel page | Collioure | 61/511 hotels collected
+2026-10-31 12:28:35 | hotel page | Collioure | 62/511 hotels collected
+2026-10-31 12:28:48 | hotel page | Collioure | 63/511 hotels collected
+2026-10-31 12:28:59 | hotel page | Collioure | 64/511 hotels collected
+2026-10-31 12:29:10 | hotel page | Collioure | 65/511 hotels collected
+2026-10-31 12:29:22 | hotel page | Collioure | 66/511 hotels collected
+2026-10-31 12:29:32 | hotel page | Collioure | 67/511 hotels collected
+2026-10-31 12:29:46 | hotel page | Collioure | 68/511 hotels collected
+2026-10-31 12:29:59 | hotel page | Collioure | 69/511 hotels collected
+2026-10-31 12:30:10 | hotel page | Collioure | 70/511 hotels collected
+2026-10-31 12:30:24 | hotel page | Collioure | 71/511 hotels collected
+2026-10-31 12:30:36 | hotel page | Collioure | 72/511 hotels collected
+2026-10-31 12:30:48 | hotel page | Collioure | 73/511 hotels collected
+2026-10-31 12:31:00 | hotel page | Collioure | 74/511 hotels collected
+2026-10-31 12:31:13 | hotel page | Collioure | 75/511 hotels collected
+2026-10-31 12:31:25 | hotel page | Marseille | 76/511 hotels collected
+2026-10-31 12:31:38 | hotel page | Marseille | 77/511 hotels collected
+2026-10-31 12:31:51 | hotel page | Marseille | 78/511 hotels collected
+2026-10-31 12:32:03 | hotel page | Marseille | 79/511 hotels collected
+2026-10-31 12:32:17 | hotel page | Marseille | 80/511 hotels collected
+2026-10-31 12:32:31 | hotel page | Marseille | 81/511 hotels collected
+2026-10-31 12:32:43 | hotel page | Marseille | 82/511 hotels collected
+2026-10-31 12:32:56 | hotel page | Marseille | 83/511 hotels collected
+2026-10-31 12:33:08 | hotel page | Marseille | 84/511 hotels collected
+2026-10-31 12:33:21 | hotel page | Marseille | 85/511 hotels collected
+2026-10-31 12:33:33 | hotel page | Marseille | 86/511 hotels collected
+2026-10-31 12:33:47 | hotel page | Marseille | 87/511 hotels collected
+2026-10-31 12:34:02 | hotel page | Marseille | 88/511 hotels collected
+2026-10-31 12:34:12 | hotel page | Marseille | 89/511 hotels collected
+2026-10-31 12:34:25 | hotel page | Marseille | 90/511 hotels collected
+2026-10-31 12:34:37 | hotel page | Aix en Provence | 91/511 hotels collected
+2026-10-31 12:34:52 | hotel page | Aix en Provence | 92/511 hotels collected
+2026-10-31 12:35:10 | hotel page | Aix en Provence | 93/511 hotels collected
+2026-10-31 12:35:22 | hotel page | Aix en Provence | 94/511 hotels collected
+2026-10-31 12:35:35 | hotel page | Aix en Provence | 95/511 hotels collected
+2026-10-31 12:35:50 | hotel page | Aix en Provence | 96/511 hotels collected
+2026-10-31 12:36:04 | hotel page | Aix en Provence | 97/511 hotels collected
+2026-10-31 12:36:15 | hotel page | Aix en Provence | 98/511 hotels collected
+2026-10-31 12:36:29 | hotel page | Aix en Provence | 99/511 hotels collected
+2026-10-31 12:36:41 | hotel page | Aix en Provence | 100/511 hotels collected
+2026-10-31 12:36:52 | hotel page | Aix en Provence | 101/511 hotels collected
+2026-10-31 12:37:03 | hotel page | Aix en Provence | 102/511 hotels collected
+2026-10-31 12:37:14 | hotel page | Aix en Provence | 103/511 hotels collected
+2026-10-31 12:37:27 | hotel page | Aix en Provence | 104/511 hotels collected
+2026-10-31 12:37:38 | hotel page | Aix en Provence | 105/511 hotels collected
+2026-10-31 12:37:51 | hotel page | Toulouse | 106/511 hotels collected
+2026-10-31 12:38:04 | hotel page | Toulouse | 107/511 hotels collected
+2026-10-31 12:38:16 | hotel page | Toulouse | 108/511 hotels collected
+2026-10-31 12:38:27 | hotel page | Toulouse | 109/511 hotels collected
+2026-10-31 12:38:41 | hotel page | Toulouse | 110/511 hotels collected
+2026-10-31 12:38:55 | hotel page | Toulouse | 111/511 hotels collected
+2026-10-31 12:39:08 | hotel page | Toulouse | 112/511 hotels collected
+2026-10-31 12:39:20 | hotel page | Toulouse | 113/511 hotels collected
+2026-10-31 12:39:34 | hotel page | Toulouse | 114/511 hotels collected
+2026-10-31 12:39:44 | hotel page | Toulouse | 115/511 hotels collected
+2026-10-31 12:39:56 | hotel page | Toulouse | 116/511 hotels collected
+2026-10-31 12:40:08 | hotel page | Toulouse | 117/511 hotels collected
+2026-10-31 12:40:22 | hotel page | Toulouse | 118/511 hotels collected
+2026-10-31 12:40:35 | hotel page | Toulouse | 119/511 hotels collected
+2026-10-31 12:40:48 | hotel page | Toulouse | 120/511 hotels collected
+2026-10-31 12:41:02 | hotel page | Montauban | 121/511 hotels collected
+2026-10-31 12:41:14 | hotel page | Montauban | 122/511 hotels collected
+2026-10-31 12:41:28 | hotel page | Montauban | 123/511 hotels collected
+2026-10-31 12:41:40 | hotel page | Montauban | 124/511 hotels collected
+2026-10-31 12:41:52 | hotel page | Montauban | 125/511 hotels collected
+2026-10-31 12:42:03 | hotel page | Montauban | 126/511 hotels collected
+2026-10-31 12:42:17 | hotel page | Montauban | 127/511 hotels collected
+2026-10-31 12:42:29 | hotel page | Montauban | 128/511 hotels collected
+2026-10-31 12:42:41 | hotel page | Montauban | 129/511 hotels collected
+2026-10-31 12:42:53 | hotel page | Montauban | 130/511 hotels collected
+2026-10-31 12:43:04 | hotel page | Montauban | 131/511 hotels collected
+2026-10-31 12:43:16 | hotel page | Montauban | 132/511 hotels collected
+2026-10-31 12:43:29 | hotel page | Montauban | 133/511 hotels collected
+2026-10-31 12:43:42 | hotel page | Montauban | 134/511 hotels collected
+2026-10-31 12:43:53 | hotel page | Montauban | 135/511 hotels collected
+2026-10-31 12:44:05 | hotel page | Mont Saint Michel | 136/511 hotels collected
+2026-10-31 12:44:16 | hotel page | Mont Saint Michel | 137/511 hotels collected
+2026-10-31 12:44:28 | hotel page | Mont Saint Michel | 138/511 hotels collected
+2026-10-31 12:44:41 | hotel page | Mont Saint Michel | 139/511 hotels collected
+2026-10-31 12:44:55 | hotel page | Mont Saint Michel | 140/511 hotels collected
+2026-10-31 12:45:08 | hotel page | Mont Saint Michel | 141/511 hotels collected
+2026-10-31 12:45:20 | hotel page | Mont Saint Michel | 142/511 hotels collected
+2026-10-31 12:45:30 | hotel page | Mont Saint Michel | 143/511 hotels collected
+2026-10-31 12:45:43 | hotel page | Mont Saint Michel | 144/511 hotels collected
+2026-10-31 12:45:58 | hotel page | Mont Saint Michel | 145/511 hotels collected
+2026-10-31 12:46:09 | hotel page | Mont Saint Michel | 146/511 hotels collected
+2026-10-31 12:46:21 | hotel page | Mont Saint Michel | 147/511 hotels collected
+2026-10-31 12:46:33 | hotel page | Mont Saint Michel | 148/511 hotels collected
+2026-10-31 12:46:46 | hotel page | Mont Saint Michel | 149/511 hotels collected
+2026-10-31 12:47:00 | hotel page | Mont Saint Michel | 150/511 hotels collected
+2026-10-31 12:47:12 | hotel page | Paris | 151/511 hotels collected
+2026-10-31 12:47:25 | hotel page | Paris | 152/511 hotels collected
+2026-10-31 12:47:38 | hotel page | Paris | 153/511 hotels collected
+2026-10-31 12:47:50 | hotel page | Paris | 154/511 hotels collected
+2026-10-31 12:48:04 | hotel page | Paris | 155/511 hotels collected
+2026-10-31 12:48:16 | hotel page | Paris | 156/511 hotels collected
+2026-10-31 12:48:30 | hotel page | Paris | 157/511 hotels collected
+2026-10-31 12:48:42 | hotel page | Paris | 158/511 hotels collected
+2026-10-31 12:48:55 | hotel page | Paris | 159/511 hotels collected
+2026-10-31 12:49:07 | hotel page | Paris | 160/511 hotels collected
+2026-10-31 12:49:19 | hotel page | Paris | 161/511 hotels collected
+2026-10-31 12:49:34 | hotel page | Paris | 162/511 hotels collected
+2026-10-31 12:49:47 | hotel page | Paris | 163/511 hotels collected
+2026-10-31 12:49:57 | hotel page | Paris | 164/511 hotels collected
+2026-10-31 12:50:10 | hotel page | Paris | 165/511 hotels collected
+2026-10-31 12:50:24 | hotel page | Rouen | 166/511 hotels collected
+2026-10-31 12:50:37 | hotel page | Rouen | 167/511 hotels collected
+2026-10-31 12:50:49 | hotel page | Rouen | 168/511 hotels collected
+2026-10-31 12:51:02 | hotel page | Rouen | 169/511 hotels collected
+2026-10-31 12:51:15 | hotel page | Rouen | 170/511 hotels collected
+2026-10-31 12:51:26 | hotel page | Rouen | 171/511 hotels collected
+2026-10-31 12:51:38 | hotel page | Rouen | 172/511 hotels collected
+2026-10-31 12:51:52 | hotel page | Rouen | 173/511 hotels collected
+2026-10-31 12:52:05 | hotel page | Rouen | 174/511 hotels collected
+2026-10-31 12:52:17 | hotel page | Rouen | 175/511 hotels collected
+2026-10-31 12:52:31 | hotel page | Rouen | 176/511 hotels collected
+2026-10-31 12:52:42 | hotel page | Rouen | 177/511 hotels collected
+2026-10-31 12:52:54 | hotel page | Rouen | 178/511 hotels collected
+2026-10-31 12:53:06 | hotel page | Rouen | 179/511 hotels collected
+2026-10-31 12:53:18 | hotel page | Rouen | 180/511 hotels collected
+2026-10-31 12:53:28 | hotel page | Grenoble | 181/511 hotels collected
+2026-10-31 12:53:39 | hotel page | Grenoble | 182/511 hotels collected
+2026-10-31 12:53:51 | hotel page | Grenoble | 183/511 hotels collected
+2026-10-31 12:54:05 | hotel page | Grenoble | 184/511 hotels collected
+2026-10-31 12:54:16 | hotel page | Grenoble | 185/511 hotels collected
+2026-10-31 12:54:30 | hotel page | Grenoble | 186/511 hotels collected
+2026-10-31 12:54:42 | hotel page | Grenoble | 187/511 hotels collected
+2026-10-31 12:54:56 | hotel page | Grenoble | 188/511 hotels collected
+2026-10-31 12:55:10 | hotel page | Grenoble | 189/511 hotels collected
+2026-10-31 12:55:22 | hotel page | Grenoble | 190/511 hotels collected
+2026-10-31 12:55:35 | hotel page | Grenoble | 191/511 hotels collected
+2026-10-31 12:55:50 | hotel page | Grenoble | 192/511 hotels collected
+2026-10-31 12:56:04 | hotel page | Grenoble | 193/511 hotels collected
+2026-10-31 12:56:15 | hotel page | Grenoble | 194/511 hotels collected
+2026-10-31 12:56:29 | hotel page | Grenoble | 195/511 hotels collected
+2026-10-31 12:56:43 | hotel page | St Malo | 196/511 hotels collected
+2026-10-31 12:56:56 | hotel page | St Malo | 197/511 hotels collected
+2026-10-31 12:57:08 | hotel page | St Malo | 198/511 hotels collected
+2026-10-31 12:57:20 | hotel page | St Malo | 199/511 hotels collected
+2026-10-31 12:57:33 | hotel page | St Malo | 200/511 hotels collected
+2026-10-31 12:57:47 | hotel page | St Malo | 201/511 hotels collected
+2026-10-31 12:58:01 | hotel page | St Malo | 202/511 hotels collected
+2026-10-31 12:58:13 | hotel page | St Malo | 203/511 hotels collected
+2026-10-31 12:58:26 | hotel page | St Malo | 204/511 hotels collected
+2026-10-31 12:58:37 | hotel page | St Malo | 205/511 hotels collected
+2026-10-31 12:58:51 | hotel page | St Malo | 206/511 hotels collected
+2026-10-31 12:59:03 | hotel page | St Malo | 207/511 hotels collected
+2026-10-31 12:59:13 | hotel page | St Malo | 208/511 hotels collected
+2026-10-31 12:59:27 | hotel page | St Malo | 209/511 hotels collected
+2026-10-31 12:59:39 | hotel page | St Malo | 210/511 hotels collected
+2026-10-31 12:59:50 | hotel page | St Malo | 211/511 hotels collected
+2026-10-31 13:00:04 | hotel page | Le Havre | 212/511 hotels collected
+2026-10-31 13:00:16 | hotel page | Le Havre | 213/511 hotels collected
+2026-10-31 13:00:29 | hotel page | Le Havre | 214/511 hotels collected
+2026-10-31 13:00:43 | hotel page | Le Havre | 215/511 hotels collected
+2026-10-31 13:00:55 | hotel page | Le Havre | 216/511 hotels collected
+2026-10-31 13:01:06 | hotel page | Le Havre | 217/511 hotels collected
+2026-10-31 13:01:18 | hotel page | Le Havre | 218/511 hotels collected
+2026-10-31 13:01:29 | hotel page | Le Havre | 219/511 hotels collected
+2026-10-31 13:01:42 | hotel page | Le Havre | 220/511 hotels collected
+2026-10-31 13:01:53 | hotel page | Le Havre | 221/511 hotels collected
+2026-10-31 13:02:05 | hotel page | Le Havre | 222/511 hotels collected
+2026-10-31 13:02:19 | hotel page | Le Havre | 223/511 hotels collected
+2026-10-31 13:02:33 | hotel page | Le Havre | 224/511 hotels collected
+2026-10-31 13:02:46 | hotel page | Le Havre | 225/511 hotels collected
+2026-10-31 13:02:59 | hotel page | Le Havre | 226/511 hotels collected
+2026-10-31 13:03:13 | hotel page | La Rochelle | 227/511 hotels collected
+2026-10-31 13:03:27 | hotel page | La Rochelle | 228/511 hotels collected
+2026-10-31 13:03:39 | hotel page | La Rochelle | 229/511 hotels collected
+2026-10-31 13:03:51 | hotel page | La Rochelle | 230/511 hotels collected
+2026-10-31 13:04:04 | hotel page | La Rochelle | 231/511 hotels collected
+2026-10-31 13:04:18 | hotel page | La Rochelle | 232/511 hotels collected
+2026-10-31 13:04:31 | hotel page | La Rochelle | 233/511 hotels collected
+2026-10-31 13:04:44 | hotel page | La Rochelle | 234/511 hotels collected
+2026-10-31 13:04:56 | hotel page | La Rochelle | 235/511 hotels collected
+2026-10-31 13:05:08 | hotel page | La Rochelle | 236/511 hotels collected
+2026-10-31 13:05:23 | hotel page | La Rochelle | 237/511 hotels collected
+2026-10-31 13:05:35 | hotel page | La Rochelle | 238/511 hotels collected
+2026-10-31 13:05:48 | hotel page | La Rochelle | 239/511 hotels collected
+2026-10-31 13:06:02 | hotel page | La Rochelle | 240/511 hotels collected
+2026-10-31 13:06:14 | hotel page | La Rochelle | 241/511 hotels collected
+2026-10-31 13:06:27 | hotel page | Ariege | 242/511 hotels collected
+2026-10-31 13:06:41 | hotel page | Ariege | 243/511 hotels collected
+2026-10-31 13:06:53 | hotel page | Ariege | 244/511 hotels collected
+2026-10-31 13:07:07 | hotel page | Ariege | 245/511 hotels collected
+2026-10-31 13:07:18 | hotel page | Ariege | 246/511 hotels collected
+2026-10-31 13:07:29 | hotel page | Ariege | 247/511 hotels collected
+2026-10-31 13:07:43 | hotel page | Ariege | 248/511 hotels collected
+2026-10-31 13:07:55 | hotel page | Ariege | 249/511 hotels collected
+2026-10-31 13:08:06 | hotel page | Ariege | 250/511 hotels collected
+2026-10-31 13:08:18 | hotel page | Ariege | 251/511 hotels collected
+2026-10-31 13:08:31 | hotel page | Ariege | 252/511 hotels collected
+2026-10-31 13:08:43 | hotel page | Ariege | 253/511 hotels collected
+2026-10-31 13:08:54 | hotel page | Ariege | 254/511 hotels collected
+2026-10-31 13:09:07 | hotel page | Ariege | 255/511 hotels collected
+2026-10-31 13:09:21 | hotel page | Ariege | 256/511 hotels collected
+2026-10-31 13:09:31 | hotel page | Lille | 257/511 hotels collected
+2026-10-31 13:09:43 | hotel page | Lille | 258/511 hotels collected
+2026-10-31 13:09:58 | hotel page | Lille | 259/511 hotels collected
+2026-10-31 13:10:10 | hotel page | Lille | 260/511 hotels collected
+2026-10-31 13:10:21 | hotel page | Lille | 261/511 hotels collected
+2026-10-31 13:10:36 | hotel page | Lille | 262/511 hotels collected
+2026-10-31 13:10:49 | hotel page | Lille | 263/511 hotels collected
+2026-10-31 13:11:03 | hotel page | Lille | 264/511 hotels collected
+2026-10-31 13:11:16 | hotel page | Lille | 265/511 hotels collected
+2026-10-31 13:11:29 | hotel page | Lille | 266/511 hotels collected
+2026-10-31 13:11:40 | hotel page | Lille | 267/511 hotels collected
+2026-10-31 13:11:54 | hotel page | Lille | 268/511 hotels collected
+2026-10-31 13:12:09 | hotel page | Lille | 269/511 hotels collected
+2026-10-31 13:12:21 | hotel page | Lille | 270/511 hotels collected
+2026-10-31 13:12:36 | hotel page | Lille | 271/511 hotels collected
+2026-10-31 13:12:52 | hotel page | Amiens | 272/511 hotels collected
+2026-10-31 13:13:05 | hotel page | Amiens | 273/511 hotels collected
+2026-10-31 13:13:19 | hotel page | Amiens | 274/511 hotels collected
+2026-10-31 13:13:33 | hotel page | Amiens | 275/511 hotels collected
+2026-10-31 13:13:46 | hotel page | Amiens | 276/511 hotels collected
+2026-10-31 13:13:59 | hotel page | Amiens | 277/511 hotels collected
+2026-10-31 13:14:11 | hotel page | Amiens | 278/511 hotels collected
+2026-10-31 13:14:25 | hotel page | Amiens | 279/511 hotels collected
+2026-10-31 13:14:35 | hotel page | Amiens | 280/511 hotels collected
+2026-10-31 13:14:49 | hotel page | Amiens | 281/511 hotels collected
+2026-10-31 13:15:01 | hotel page | Amiens | 282/511 hotels collected
+2026-10-31 13:15:13 | hotel page | Amiens | 283/511 hotels collected
+2026-10-31 13:15:27 | hotel page | Amiens | 284/511 hotels collected
+2026-10-31 13:15:37 | hotel page | Amiens | 285/511 hotels collected
+2026-10-31 13:15:49 | hotel page | Amiens | 286/511 hotels collected
+2026-10-31 13:16:00 | hotel page | Aigues Mortes | 287/511 hotels collected
+2026-10-31 13:16:13 | hotel page | Aigues Mortes | 288/511 hotels collected
+2026-10-31 13:16:26 | hotel page | Aigues Mortes | 289/511 hotels collected
+2026-10-31 13:16:39 | hotel page | Aigues Mortes | 290/511 hotels collected
+2026-10-31 13:16:52 | hotel page | Aigues Mortes | 291/511 hotels collected
+2026-10-31 13:17:04 | hotel page | Aigues Mortes | 292/511 hotels collected
+2026-10-31 13:17:17 | hotel page | Aigues Mortes | 293/511 hotels collected
+2026-10-31 13:17:30 | hotel page | Aigues Mortes | 294/511 hotels collected
+2026-10-31 13:17:44 | hotel page | Aigues Mortes | 295/511 hotels collected
+2026-10-31 13:17:57 | hotel page | Aigues Mortes | 296/511 hotels collected
+2026-10-31 13:18:08 | hotel page | Aigues Mortes | 297/511 hotels collected
+2026-10-31 13:18:21 | hotel page | Aigues Mortes | 298/511 hotels collected
+2026-10-31 13:18:35 | hotel page | Aigues Mortes | 299/511 hotels collected
+2026-10-31 13:18:48 | hotel page | Aigues Mortes | 300/511 hotels collected
+2026-10-31 13:18:59 | hotel page | Aigues Mortes | 301/511 hotels collected
+2026-10-31 13:19:13 | hotel page | Nimes | 302/511 hotels collected
+2026-10-31 13:19:26 | hotel page | Nimes | 303/511 hotels collected
+2026-10-31 13:19:39 | hotel page | Nimes | 304/511 hotels collected
+2026-10-31 13:19:51 | hotel page | Nimes | 305/511 hotels collected
+2026-10-31 13:20:04 | hotel page | Nimes | 306/511 hotels collected
+2026-10-31 13:20:14 | hotel page | Nimes | 307/511 hotels collected
+2026-10-31 13:20:25 | hotel page | Nimes | 308/511 hotels collected
+2026-10-31 13:20:39 | hotel page | Nimes | 309/511 hotels collected
+2026-10-31 13:20:53 | hotel page | Nimes | 310/511 hotels collected
+2026-10-31 13:21:04 | hotel page | Nimes | 311/511 hotels collected
+2026-10-31 13:21:16 | hotel page | Nimes | 312/511 hotels collected
+2026-10-31 13:21:29 | hotel page | Nimes | 313/511 hotels collected
+2026-10-31 13:21:40 | hotel page | Nimes | 314/511 hotels collected
+2026-10-31 13:21:52 | hotel page | Nimes | 315/511 hotels collected
+2026-10-31 13:22:05 | hotel page | Nimes | 316/511 hotels collected
+2026-10-31 13:22:18 | hotel page | Carcassonne | 317/511 hotels collected
+2026-10-31 13:22:29 | hotel page | Carcassonne | 318/511 hotels collected
+2026-10-31 13:22:40 | hotel page | Carcassonne | 319/511 hotels collected
+2026-10-31 13:22:52 | hotel page | Carcassonne | 320/511 hotels collected
+2026-10-31 13:23:05 | hotel page | Carcassonne | 321/511 hotels collected
+2026-10-31 13:23:17 | hotel page | Carcassonne | 322/511 hotels collected
+2026-10-31 13:23:29 | hotel page | Carcassonne | 323/511 hotels collected
+2026-10-31 13:23:41 | hotel page | Carcassonne | 324/511 hotels collected
+2026-10-31 13:23:53 | hotel page | Carcassonne | 325/511 hotels collected
+2026-10-31 13:24:05 | hotel page | Carcassonne | 326/511 hotels collected
+2026-10-31 13:24:17 | hotel page | Carcassonne | 327/511 hotels collected
+2026-10-31 13:24:31 | hotel page | Carcassonne | 328/511 hotels collected
+2026-10-31 13:24:45 | hotel page | Carcassonne | 329/511 hotels collected
+2026-10-31 13:24:57 | hotel page | Carcassonne | 330/511 hotels collected
+2026-10-31 13:25:08 | hotel page | Carcassonne | 331/511 hotels collected
+2026-10-31 13:25:19 | hotel page | Saintes Maries de la mer | 332/511 hotels collected
+2026-10-31 13:25:32 | hotel page | Saintes Maries de la mer | 333/511 hotels collected
+2026-10-31 13:25:44 | hotel page | Saintes Maries de la mer | 334/511 hotels collected
+2026-10-31 13:25:54 | hotel page | Saintes Maries de la mer | 335/511 hotels collected
+2026-10-31 13:26:05 | hotel page | Saintes Maries de la mer | 336/511 hotels collected
+2026-10-31 13:26:16 | hotel page | Saintes Maries de la mer | 337/511 hotels collected
+2026-10-31 13:26:28 | hotel page | Saintes Maries de la mer | 338/511 hotels collected
+2026-10-31 13:26:41 | hotel page | Saintes Maries de la mer | 339/511 hotels collected
+2026-10-31 13:26:52 | hotel page | Saintes Maries de la mer | 340/511 hotels collected
+2026-10-31 13:27:03 | hotel page | Saintes Maries de la mer | 341/511 hotels collected
+2026-10-31 13:27:16 | hotel page | Saintes Maries de la mer | 342/511 hotels collected
+2026-10-31 13:27:30 | hotel page | Saintes Maries de la mer | 343/511 hotels collected
+2026-10-31 13:27:44 | hotel page | Saintes Maries de la mer | 344/511 hotels collected
+2026-10-31 13:27:54 | hotel page | Saintes Maries de la mer | 345/511 hotels collected
+2026-10-31 13:28:05 | hotel page | Saintes Maries de la mer | 346/511 hotels collected
+2026-10-31 13:28:17 | hotel page | Uzes | 347/511 hotels collected
+2026-10-31 13:28:28 | hotel page | Uzes | 348/511 hotels collected
+2026-10-31 13:28:40 | hotel page | Uzes | 349/511 hotels collected
+2026-10-31 13:28:54 | hotel page | Uzes | 350/511 hotels collected
+2026-10-31 13:29:07 | hotel page | Uzes | 351/511 hotels collected
+2026-10-31 13:29:20 | hotel page | Uzes | 352/511 hotels collected
+2026-10-31 13:29:34 | hotel page | Uzes | 353/511 hotels collected
+2026-10-31 13:29:46 | hotel page | Uzes | 354/511 hotels collected
+2026-10-31 13:29:58 | hotel page | Uzes | 355/511 hotels collected
+2026-10-31 13:30:12 | hotel page | Uzes | 356/511 hotels collected
+2026-10-31 13:30:24 | hotel page | Uzes | 357/511 hotels collected
+2026-10-31 13:30:35 | hotel page | Uzes | 358/511 hotels collected
+2026-10-31 13:30:46 | hotel page | Uzes | 359/511 hotels collected
+2026-10-31 13:31:00 | hotel page | Uzes | 360/511 hotels collected
+2026-10-31 13:31:13 | hotel page | Uzes | 361/511 hotels collected
+2026-10-31 13:31:27 | hotel page | Lyon | 362/511 hotels collected
+2026-10-31 13:31:38 | hotel page | Lyon | 363/511 hotels collected
+2026-10-31 13:31:51 | hotel page | Lyon | 364/511 hotels collected
+2026-10-31 13:32:02 | hotel page | Lyon | 365/511 hotels collected
+2026-10-31 13:32:15 | hotel page | Lyon | 366/511 hotels collected
+2026-10-31 13:32:29 | hotel page | Lyon | 367/511 hotels collected
+2026-10-31 13:32:42 | hotel page | Lyon | 368/511 hotels collected
+2026-10-31 13:32:57 | hotel page | Lyon | 369/511 hotels collected
+2026-10-31 13:33:10 | hotel page | Lyon | 370/511 hotels collected
+2026-10-31 13:33:22 | hotel page | Lyon | 371/511 hotels collected
+2026-10-31 13:33:35 | hotel page | Lyon | 372/511 hotels collected
+2026-10-31 13:33:46 | hotel page | Lyon | 373/511 hotels collected
+2026-10-31 13:33:59 | hotel page | Lyon | 374/511 hotels collected
+2026-10-31 13:34:11 | hotel page | Lyon | 375/511 hotels collected
+2026-10-31 13:34:23 | hotel page | Lyon | 376/511 hotels collected
+2026-10-31 13:34:33 | hotel page | Bayeux | 377/511 hotels collected
+2026-10-31 13:34:44 | hotel page | Bayeux | 378/511 hotels collected
+2026-10-31 13:34:58 | hotel page | Bayeux | 379/511 hotels collected
+2026-10-31 13:35:09 | hotel page | Bayeux | 380/511 hotels collected
+2026-10-31 13:35:23 | hotel page | Bayeux | 381/511 hotels collected
+2026-10-31 13:35:37 | hotel page | Bayeux | 382/511 hotels collected
+2026-10-31 13:35:52 | hotel page | Bayeux | 383/511 hotels collected
+2026-10-31 13:36:04 | hotel page | Bayeux | 384/511 hotels collected
+2026-10-31 13:36:18 | hotel page | Bayeux | 385/511 hotels collected
+2026-10-31 13:36:31 | hotel page | Bayeux | 386/511 hotels collected
+2026-10-31 13:36:44 | hotel page | Bayeux | 387/511 hotels collected
+2026-10-31 13:36:58 | hotel page | Bayeux | 388/511 hotels collected
+2026-10-31 13:37:09 | hotel page | Bayeux | 389/511 hotels collected
+2026-10-31 13:37:22 | hotel page | Bayeux | 390/511 hotels collected
+2026-10-31 13:37:33 | hotel page | Bayeux | 391/511 hotels collected
+2026-10-31 13:37:47 | hotel page | Strasbourg | 392/511 hotels collected
+2026-10-31 13:38:02 | hotel page | Strasbourg | 393/511 hotels collected
+2026-10-31 13:38:14 | hotel page | Strasbourg | 394/511 hotels collected
+2026-10-31 13:38:27 | hotel page | Strasbourg | 395/511 hotels collected
+2026-10-31 13:38:41 | hotel page | Strasbourg | 396/511 hotels collected
+2026-10-31 13:38:53 | hotel page | Strasbourg | 397/511 hotels collected
+2026-10-31 13:39:07 | hotel page | Strasbourg | 398/511 hotels collected
+2026-10-31 13:39:19 | hotel page | Strasbourg | 399/511 hotels collected
+2026-10-31 13:39:31 | hotel page | Strasbourg | 400/511 hotels collected
+2026-10-31 13:39:44 | hotel page | Strasbourg | 401/511 hotels collected
+2026-10-31 13:39:56 | hotel page | Strasbourg | 402/511 hotels collected
+2026-10-31 13:40:07 | hotel page | Strasbourg | 403/511 hotels collected
+2026-10-31 13:40:20 | hotel page | Strasbourg | 404/511 hotels collected
+2026-10-31 13:40:34 | hotel page | Strasbourg | 405/511 hotels collected
+2026-10-31 13:40:47 | hotel page | Strasbourg | 406/511 hotels collected
+2026-10-31 13:40:58 | hotel page | Annecy | 407/511 hotels collected
+2026-10-31 13:41:10 | hotel page | Annecy | 408/511 hotels collected
+2026-10-31 13:41:22 | hotel page | Annecy | 409/511 hotels collected
+2026-10-31 13:41:32 | hotel page | Annecy | 410/511 hotels collected
+2026-10-31 13:41:43 | hotel page | Annecy | 411/511 hotels collected
+2026-10-31 13:41:56 | hotel page | Annecy | 412/511 hotels collected
+2026-10-31 13:42:08 | hotel page | Annecy | 413/511 hotels collected
+2026-10-31 13:42:19 | hotel page | Annecy | 414/511 hotels collected
+2026-10-31 13:42:31 | hotel page | Annecy | 415/511 hotels collected
+2026-10-31 13:42:42 | hotel page | Annecy | 416/511 hotels collected
+2026-10-31 13:42:55 | hotel page | Annecy | 417/511 hotels collected
+2026-10-31 13:43:07 | hotel page | Annecy | 418/511 hotels collected
+2026-10-31 13:43:20 | hotel page | Annecy | 419/511 hotels collected
+2026-10-31 13:43:33 | hotel page | Annecy | 420/511 hotels collected
+2026-10-31 13:43:45 | hotel page | Annecy | 421/511 hotels collected
+2026-10-31 13:43:57 | hotel page | Avignon | 422/511 hotels collected
+2026-10-31 13:44:09 | hotel page | Avignon | 423/511 hotels collected
+2026-10-31 13:44:20 | hotel page | Avignon | 424/511 hotels collected
+2026-10-31 13:44:32 | hotel page | Avignon | 425/511 hotels collected
+2026-10-31 13:44:45 | hotel page | Avignon | 426/511 hotels collected
+2026-10-31 13:44:55 | hotel page | Avignon | 427/511 hotels collected
+2026-10-31 13:45:08 | hotel page | Avignon | 428/511 hotels collected
+2026-10-31 13:45:22 | hotel page | Avignon | 429/511 hotels collected
+2026-10-31 13:45:33 | hotel page | Avignon | 430/511 hotels collected
+2026-10-31 13:45:46 | hotel page | Avignon | 431/511 hotels collected
+2026-10-31 13:45:58 | hotel page | Avignon | 432/511 hotels collected
+2026-10-31 13:46:13 | hotel page | Avignon | 433/511 hotels collected
+2026-10-31 13:46:27 | hotel page | Avignon | 434/511 hotels collected
+2026-10-31 13:46:40 | hotel page | Avignon | 435/511 hotels collected
+2026-10-31 13:46:52 | hotel page | Avignon | 436/511 hotels collected
+2026-10-31 13:47:03 | hotel page | Besancon | 437/511 hotels collected
+2026-10-31 13:47:15 | hotel page | Besancon | 438/511 hotels collected
+2026-10-31 13:47:28 | hotel page | Besancon | 439/511 hotels collected
+2026-10-31 13:47:40 | hotel page | Besancon | 440/511 hotels collected
+2026-10-31 13:47:53 | hotel page | Besancon | 441/511 hotels collected
+2026-10-31 13:48:06 | hotel page | Besancon | 442/511 hotels collected
+2026-10-31 13:48:18 | hotel page | Besancon | 443/511 hotels collected
+2026-10-31 13:48:30 | hotel page | Besancon | 444/511 hotels collected
+2026-10-31 13:48:41 | hotel page | Besancon | 445/511 hotels collected
+2026-10-31 13:48:54 | hotel page | Besancon | 446/511 hotels collected
+2026-10-31 13:49:08 | hotel page | Besancon | 447/511 hotels collected
+2026-10-31 13:49:21 | hotel page | Besancon | 448/511 hotels collected
+2026-10-31 13:49:34 | hotel page | Besancon | 449/511 hotels collected
+2026-10-31 13:49:47 | hotel page | Besancon | 450/511 hotels collected
+2026-10-31 13:49:58 | hotel page | Besancon | 451/511 hotels collected
+2026-10-31 13:50:09 | hotel page | Dijon | 452/511 hotels collected
+2026-10-31 13:50:23 | hotel page | Dijon | 453/511 hotels collected
+2026-10-31 13:50:38 | hotel page | Dijon | 454/511 hotels collected
+2026-10-31 13:50:51 | hotel page | Dijon | 455/511 hotels collected
+2026-10-31 13:51:03 | hotel page | Dijon | 456/511 hotels collected
+2026-10-31 13:51:17 | hotel page | Dijon | 457/511 hotels collected
+2026-10-31 13:51:30 | hotel page | Dijon | 458/511 hotels collected
+2026-10-31 13:51:44 | hotel page | Dijon | 459/511 hotels collected
+2026-10-31 13:51:57 | hotel page | Dijon | 460/511 hotels collected
+2026-10-31 13:52:10 | hotel page | Dijon | 461/511 hotels collected
+2026-10-31 13:52:21 | hotel page | Dijon | 462/511 hotels collected
+2026-10-31 13:52:32 | hotel page | Dijon | 463/511 hotels collected
+2026-10-31 13:52:42 | hotel page | Dijon | 464/511 hotels collected
+2026-10-31 13:52:53 | hotel page | Dijon | 465/511 hotels collected
+2026-10-31 13:53:04 | hotel page | Dijon | 466/511 hotels collected
+2026-10-31 13:53:15 | hotel page | Colmar | 467/511 hotels collected
+2026-10-31 13:53:30 | hotel page | Colmar | 468/511 hotels collected
+2026-10-31 13:53:45 | hotel page | Colmar | 469/511 hotels collected
+2026-10-31 13:53:58 | hotel page | Colmar | 470/511 hotels collected
+2026-10-31 13:54:12 | hotel page | Colmar | 471/511 hotels collected
+2026-10-31 13:54:25 | hotel page | Colmar | 472/511 hotels collected
+2026-10-31 13:54:37 | hotel page | Colmar | 473/511 hotels collected
+2026-10-31 13:54:51 | hotel page | Colmar | 474/511 hotels collected
+2026-10-31 13:55:04 | hotel page | Colmar | 475/511 hotels collected
+2026-10-31 13:55:17 | hotel page | Colmar | 476/511 hotels collected
+2026-10-31 13:55:31 | hotel page | Colmar | 477/511 hotels collected
+2026-10-31 13:55:44 | hotel page | Colmar | 478/511 hotels collected
+2026-10-31 13:55:55 | hotel page | Colmar | 479/511 hotels collected
+2026-10-31 13:56:09 | hotel page | Colmar | 480/511 hotels collected
+2026-10-31 13:56:21 | hotel page | Colmar | 481/511 hotels collected
+2026-10-31 13:56:33 | hotel page | Eguisheim | 482/511 hotels collected
+2026-10-31 13:56:45 | hotel page | Eguisheim | 483/511 hotels collected
+2026-10-31 13:56:56 | hotel page | Eguisheim | 484/511 hotels collected
+2026-10-31 13:57:06 | hotel page | Eguisheim | 485/511 hotels collected
+2026-10-31 13:57:18 | hotel page | Eguisheim | 486/511 hotels collected
+2026-10-31 13:57:28 | hotel page | Eguisheim | 487/511 hotels collected
+2026-10-31 13:57:41 | hotel page | Eguisheim | 488/511 hotels collected
+2026-10-31 13:57:55 | hotel page | Eguisheim | 489/511 hotels collected
+2026-10-31 13:58:08 | hotel page | Eguisheim | 490/511 hotels collected
+2026-10-31 13:58:19 | hotel page | Eguisheim | 491/511 hotels collected
+2026-10-31 13:58:30 | hotel page | Eguisheim | 492/511 hotels collected
+2026-10-31 13:58:42 | hotel page | Eguisheim | 493/511 hotels collected
+2026-10-31 13:58:53 | hotel page | Eguisheim | 494/511 hotels collected
+2026-10-31 13:59:05 | hotel page | Eguisheim | 495/511 hotels collected
+2026-10-31 13:59:18 | hotel page | Eguisheim | 496/511 hotels collected
+2026-10-31 13:59:32 | hotel page | Chateau du Haut Koenigsbourg | 497/511 hotels collected
+2026-10-31 13:59:44 | hotel page | Chateau du Haut Koenigsbourg | 498/511 hotels collected
+2026-10-31 13:59:57 | hotel page | Chateau du Haut Koenigsbourg | 499/511 hotels collected
+2026-10-31 14:00:11 | hotel page | Chateau du Haut Koenigsbourg | 500/511 hotels collected
+2026-10-31 14:00:25 | hotel page | Chateau du Haut Koenigsbourg | 501/511 hotels collected
+2026-10-31 14:00:36 | hotel page | Chateau du Haut Koenigsbourg | 502/511 hotels collected
+2026-10-31 14:00:50 | hotel page | Chateau du Haut Koenigsbourg | 503/511 hotels collected
+2026-10-31 14:01:02 | hotel page | Chateau du Haut Koenigsbourg | 504/511 hotels collected
+2026-10-31 14:01:14 | hotel page | Chateau du Haut Koenigsbourg | 505/511 hotels collected
+2026-10-31 14:01:28 | hotel page | Chateau du Haut Koenigsbourg | 506/511 hotels collected
+2026-10-31 14:01:41 | hotel page | Chateau du Haut Koenigsbourg | 507/511 hotels collected
+2026-10-31 14:01:55 | hotel page | Chateau du Haut Koenigsbourg | 508/511 hotels collected
+2026-10-31 14:02:09 | hotel page | Chateau du Haut Koenigsbourg | 509/511 hotels collected
+2026-10-31 14:02:24 | hotel page | Chateau du Haut Koenigsbourg | 510/511 hotels collected
+2026-10-31 14:02:35 | hotel page | Chateau du Haut Koenigsbourg | 511/511 hotels collected
+2026-10-31 14:02:46 | DONE 02_booking_scraping
+2026-10-31 14:02:46 | START 03_etl_s3_rds
+2026-10-31 14:02:54 | STOPPED 03_etl_s3_rds | [32m     27[39m     enriched_db.sort_values(sort_key).reset_index(drop=[38;5;28;01mTrue[39;00m) / [32m     28[39m     .equals(enriched_s3.sort_values(sort_key).reset_index(drop=[38;5;28;01mTrue[39;00m)) / [32m     29[39m ) / [32m     30[39m [38;5;28mprint[39m([33m"[39m[33mEnriched rows in the view:[39m[33m"[39m, [38;5;28mlen[39m(enriched_db), [33m"[39m[33m| in the data lake:[39m[33m"[39m, [38;5;28mlen[39m(enriched_s3), [33m"[39m[33m| identical:[39m[33m"[39m, same_data) / [32m---> [39m[32m31[39m [38;5;28;01massert[39;00m same_data / [31mAssertionError[39m: 
+2026-10-31 14:02:54 | END STOPPED
+2026-10-31 14:55:32 | START 03_etl_s3_rds
+2026-10-31 14:55:42 | DONE 03_etl_s3_rds
+2026-10-31 14:55:42 | START 04_visualization
+2026-10-31 14:55:49 | DONE 04_visualization
+2026-10-31 14:55:49 | END OK

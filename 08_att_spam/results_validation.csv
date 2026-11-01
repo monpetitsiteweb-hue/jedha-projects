@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,threshold
+M3 Pre-trained vectors + BiGRU,0.9895,0.9765,0.9326,0.954,0.9956,0.66
+M1 Embedding + AvgPool,0.9869,0.9877,0.8989,0.9412,0.9956,0.88
+Baseline TF-IDF + LogReg (not DL),0.9843,0.9873,0.8764,0.9286,0.9946,0.83
+M2 Embedding + BiLSTM,0.983,0.9524,0.8989,0.9249,0.9863,0.91

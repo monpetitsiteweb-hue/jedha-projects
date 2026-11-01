@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+spacy
+wordcloud
+matplotlib
+jupyter
+# spaCy model, to install separately: python -m spacy download en_core_web_sm

@@ -1,0 +1,98 @@
+{
+  "features": [
+    "model_key",
+    "mileage",
+    "engine_power",
+    "fuel",
+    "paint_color",
+    "car_type",
+    "private_parking_available",
+    "has_gps",
+    "has_air_conditioning",
+    "automatic_car",
+    "has_getaround_connect",
+    "has_speed_regulator",
+    "winter_tires"
+  ],
+  "categorical": [
+    "model_key",
+    "fuel",
+    "paint_color",
+    "car_type"
+  ],
+  "boolean": [
+    "private_parking_available",
+    "has_gps",
+    "has_air_conditioning",
+    "automatic_car",
+    "has_getaround_connect",
+    "has_speed_regulator",
+    "winter_tires"
+  ],
+  "numeric": [
+    "mileage",
+    "engine_power"
+  ],
+  "test_r2": 0.757,
+  "test_mae": 10.548,
+  "categories": {
+    "model_key": [
+      "Alfa Romeo",
+      "Audi",
+      "BMW",
+      "Citroën",
+      "Ferrari",
+      "Fiat",
+      "Ford",
+      "Honda",
+      "KIA Motors",
+      "Lamborghini",
+      "Lexus",
+      "Maserati",
+      "Mazda",
+      "Mercedes",
+      "Mini",
+      "Mitsubishi",
+      "Nissan",
+      "Opel",
+      "PGO",
+      "Peugeot",
+      "Porsche",
+      "Renault",
+      "SEAT",
+      "Subaru",
+      "Suzuki",
+      "Toyota",
+      "Volkswagen",
+      "Yamaha"
+    ],
+    "fuel": [
+      "diesel",
+      "electro",
+      "hybrid_petrol",
+      "petrol"
+    ],
+    "paint_color": [
+      "beige",
+      "black",
+      "blue",
+      "brown",
+      "green",
+      "grey",
+      "orange",
+      "red",
+      "silver",
+      "white"
+    ],
+    "car_type": [
+      "convertible",
+      "coupe",
+      "estate",
+      "hatchback",
+      "sedan",
+      "subcompact",
+      "suv",
+      "van"
+    ]
+  }
+}
