@@ -13,3 +13,5 @@ Projects of the Jedha Data Science Fullstack training, for the CDSD certificatio
 | The North Face | Block 3 | Cluster product descriptions, recommend similar products and extract topics. | [07_north_face](07_north_face) |
 | AT&T | Block 4 | Detect spam SMS with deep learning. | [08_att_spam](08_att_spam) |
 | Getaround | Block 5 | Analyze late checkouts and deploy a pricing API and a dashboard. [Dashboard](https://mpsw-getaround-dashboard.hf.space), [API](https://mpsw-getaround-api.hf.space/docs). | [09_getaround](09_getaround) |
+
+The five projects presented at the oral exam (blocks 1 to 5) also contain the presentation slides: open the `*-slides.html` file of the folder in a browser.
