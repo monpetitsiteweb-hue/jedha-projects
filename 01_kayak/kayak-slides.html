@@ -132,7 +132,7 @@ table.tb td.r,table.tb th.r{text-align:right}
 </div>
 </div><div class="foot"><span>Bloc 1 · Plan your trip with Kayak</span><span>4 / 8</span></div></section>
 <section class="slide"><div class="deco1"></div><div class="deco2"></div><div class="inner">
-<div class="badge"><div class="num">4</div><div class="lab">The method</div><div class="part">Brief steps 4 → 5 · Data Lake → Data Warehouse · notebook 03</div></div>
+<div class="badge"><div class="num">4</div><div class="lab">The method</div><div class="part">Brief steps 4 → 5 · Deliverables 1 and 2 · notebook 03</div></div>
 <h1>From CSV files to a Data Warehouse you can query</h1>
 <div class="flow">
 <div class="node"><div class="n">Notebooks 01 · 02</div><div class="d">collect, clean,<br>write 2 CSV files</div></div><div class="arr">→</div>
@@ -147,20 +147,21 @@ table.tb td.r,table.tb th.r{text-align:right}
 </div>
 </div><div class="foot"><span>Bloc 1 · Plan your trip with Kayak</span><span>5 / 8</span></div></section>
 <section class="slide"><div class="deco1"></div><div class="deco2"></div><div class="inner">
-<div class="badge"><div class="num">5</div><div class="lab">Key finding</div><div class="part">Deliverables 1 and 2 · Checked · notebook 03</div></div>
-<h1>The SQL database holds exactly <span class="accent">what the Data Lake holds</span></h1>
-<div class="quote" style="font-size:26px;margin-bottom:22px">“A SQL Database where we should be able to get the same cleaned data from S3”<span class="src">Project brief, second deliverable</span></div>
+<div class="badge"><div class="num">5</div><div class="lab">Key finding</div><div class="part">Notebook 04 · Figures cited in the presentation</div></div>
+<h1>The score is a temperature ranking, <span class="accent">and it only lasts a week</span></h1>
 <div class="cols" style="align-items:start">
 <div>
 <div class="stats compact" style="margin:0 0 14px">
-<div class="stat"><div class="v">34 = 34</div><div class="l">cities</div><div class="s">Data Lake and Data Warehouse</div></div>
-<div class="stat"><div class="v">511 = 511</div><div class="l">hotels</div><div class="s">every hotel linked to its city</div></div>
+<div class="stat"><div class="v">Top 5 = 5 hottest</div><div class="l">same five cities</div><div class="s">by score and by temperature alone</div></div>
 </div>
-<div class="box" style="font-size:20px"><b class="t">Why check it?</b> Rows can get lost on the way: a broken accent, a cut line, a rerun that adds duplicates. The notebook compares the SQL view with the CSV in the Data Lake, value by value: identical.</div>
+<div class="box" style="font-size:20px"><b class="t">Why: temperature spreads far more than the rest.</b> Across the 34 cities, temperature spans 10.5 °C, wind 5 points, rain 2.4 points. At the end of October, the score picks the southern coast whatever the wind and rain say.</div>
+<table class="tb" style="font-size:20px;margin-top:14px"><tr><th>Term of the score</th><th>min</th><th>max</th><th>spread</th></tr><tr><td>Temperature (°C)</td><td>2.1</td><td>12.6</td><td><b>10.5</b></td></tr><tr><td>Wind (m/s, 1 point each)</td><td>0.8</td><td>5.9</td><td>5.0</td></tr><tr><td>Rain (1 point per 10 %)</td><td>0.0</td><td>2.4</td><td>2.4</td></tr></table>
 </div>
 <div>
 <div class="stats compact" style="margin:0 0 14px"><div class="stat"><div class="v">3 of 5</div><div class="l">destinations changed</div><div class="s">between my two collections</div></div></div>
-<div class="box plain" style="font-size:20px"><b class="t">And the maps are a snapshot.</b> Forecasts cover 5 days, so the Top-5 is only valid for the week it was collected. That is why the whole pipeline reruns end to end.</div>
+<div class="box plain" style="font-size:20px"><b class="t">Forecasts cover 5 days:</b> a Top 5 is only valid for the week it was computed. That is why the pipeline reruns end to end.</div>
+<table class="tb" style="font-size:18px;margin-top:12px;line-height:1.15"><tr><th>First collection</th><th>31 October</th></tr><tr><td>Aix-en-Provence</td><td>Bormes-les-Mimosas</td></tr><tr><td>Paris</td><td>Bayonne</td></tr><tr><td>Cassis</td><td>Biarritz</td></tr><tr><td>Bormes-les-Mimosas</td><td>Cassis</td></tr><tr><td>Marseille</td><td>Collioure</td></tr></table>
+</div>
 </div>
 </div>
 </div><div class="foot"><span>Bloc 1 · Plan your trip with Kayak</span><span>6 / 8</span></div></section>
@@ -192,7 +193,7 @@ table.tb td.r,table.tb th.r{text-align:right}
 </table>
 <ul class="list" style="font-size:24px">
 <li>The maps are a snapshot. The pipeline is the product: it reruns end to end, without duplicates</li>
-<li>Next: schedule it, weather daily and hotels weekly, then add review counts to the hotel ranking</li>
+<li>Next: schedule it, weather daily and hotels weekly; compare the weather with past years for stays booked in advance; weight hotel scores by the number of reviews</li>
 </ul>
 <div class="cols mt" style="align-items:end">
 <div class="box plain" style="font-size:20px"><b class="t">Shown live:</b> the two interactive maps.<br><b class="t">Not shown live:</b> the collection (2 h) and the ETL run (9 s), visible in the notebooks.</div>
